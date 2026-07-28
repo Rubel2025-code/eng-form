@@ -12,7 +12,7 @@
      GOOGLE APPS SCRIPT ENDPOINT
      Paste your deployed Web App URL here (ends in /exec).
      ------------------------------------------------------------------ */
-  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzZZabxSFaNhxFH9NRvYfUuvIt-ozszqpA7FQwnX4IuoFZq3b0KH8WaVPGbmTmqDa0x/exec";
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyhc2tlZV1YQ2XwUjPDVNYVsJ8KYVLK2cS9qo2KWRKjfbtRCVX3oL7UR5U27Ninsf_O/exec";
 
   // Network request timeout, in milliseconds. Prevents the submit button
   // from staying in a loading state forever if the network hangs.
